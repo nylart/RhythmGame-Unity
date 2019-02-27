@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GamePlayController.cs" />
     <Compile Include="Assets\Scripts\Track.cs" />
+    <Compile Include="Assets\Scripts\TrackView.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/tralynle/Documents/Git/RhythmGame-Unity/RhythmGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
